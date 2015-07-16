@@ -1,14 +1,7 @@
 {
-  "name": "material-design-icons",
-  "version": "2.0.0",
+  "name": "material-design-icons-svg-sprites",
+  "version": "0.0.1",
   "author": "Material Design Authors",
   "description": "Material Design icons by Google",
-  "keywords": [
-    "icons",
-    "material",
-    "material-design",
-    "google"
-  ],
-  "license": "CC-BY-4.0",
-  "homepage": "http://google.com/design/spec"
+  "license": "CC-BY-4.0"
 }
